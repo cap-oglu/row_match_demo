@@ -1,2 +1,3 @@
 # row_match_demo
-An assignment
+Main Scene is "Main Menu"
+Levels Scene is "Level Select"
