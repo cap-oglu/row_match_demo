@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level1
+  - Level2
+  - Level3
+  - Level4
+  - Level5
+  - Level6
+  - Level7
+  - Level8
+  - Level9
+  - Level10
+  - FileReader
+  - Level11
+  - Level12
+  - Level13
+  - Level14
+  - Level15
+  - Level16
+  - Level17
+  - Level18
+  - Level19
+  - Level20
+  - Level21
+  - Level22
+  - Level23
+  - Level24
+  - Level25
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 4224560085
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Gem
+    uniqueID: 4207897073
+    locked: 0
+  - name: Effect
+    uniqueID: 3485106565
+    locked: 0
